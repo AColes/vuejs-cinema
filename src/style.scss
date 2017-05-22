@@ -219,10 +219,10 @@ body, html {
         }
 
         #movie-list {
-          flex-basis: 75%;
+          flex-basis: 70%;
         }
         #movie-filter {
-          flex-basis: 25%;
+          flex-basis: 30%;
 
           @media screen and (max-width: $break-small) {
             order: -1;
